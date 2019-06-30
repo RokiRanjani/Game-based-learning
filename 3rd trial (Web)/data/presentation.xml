@@ -1,0 +1,316 @@
+<?xml version="1.0"?>
+<presentation title="3rd trial" width="720.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{71FEA2EF-761F-406F-8607-4F91FEFA2DCC}">
+	<presenters/>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets/>
+	<playlists/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="10814" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Joe:
+Detective, I just received a call from a zoo nearby. There’s a woman that needs your help!
+She might be in trouble. Can you help her?
+I haven’t finished my coffee
+A case is the best breakfast</text>
+		</slide>
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="285755" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="1" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>This one can’t wait Mr. Detective. We need to hurry</text>
+		</slide>
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="139636" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="1" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>That’s the spirit! Let’s go</text>
+		</slide>
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="127482" advanceOnTime="0" framesCount="73" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="72" playTime="3.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Kayle:
+I lost my purse just few minutes ago.
+At the zoo
+Kayle, the victim</text>
+		</slide>
+		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="349781" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Kayle:
+It was a man dressed up as a zoo staff member. He grabbed my purse and ran away so quickly that I couldn’t get a good look at his face!</text>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="327504" advanceOnTime="0" framesCount="39" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="38" playTime="1.5833333" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Click here to see your note
+The thief dressed up as a zoo staff. 
+He must be near.
+Kayle:
+He blended with the other zoo staff. Can you spot the thief, Mr. Detective?
+GO!</text>
+		</slide>
+		<quiz index="6" title="" titleNormalized="" src="quiz1.swf" size="1819076" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" restartFailedQuiz="0" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="873212" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>But how do you know?
+a. My detective intuition said he was a bad person
+b. Rhinoceros do not eat a loaf of meat
+Tap to see the picture</text>
+		</slide>
+		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="5154" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="1" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Joe:
+Come on! There must be a scientific a reason</text>
+		</slide>
+		<slide index="9" title="" titleNormalized="" src="slide10.swf" size="108036" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="1" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Joe:
+Oh, I see. 
+So, the thief was faking feeding the rhino.</text>
+		</slide>
+		<slide index="10" title="" titleNormalized="" src="slide11.swf" size="167347" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="PushRight" duration="1.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thief: 
+I didn’t do anything. I just borrowed her purse.
+Police:
+Good job, Mr. Detective.</text>
+		</slide>
+		<slide index="11" title="" titleNormalized="" src="slide12.swf" size="76991" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Joe:
+Now we have caught the thief, we need to make a report. Can you help me with the writing, Mr. Detective?</text>
+		</slide>
+		<quiz index="12" title="" titleNormalized="" src="quiz2.swf" size="1103925" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" restartFailedQuiz="0" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="13" title="" titleNormalized="" src="slide14.swf" size="65491" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Joe:
+Alright, I’ll send the report now. 
+It was a long day.</text>
+		</slide>
+		<slide index="14" title="" titleNormalized="" src="slide15.swf" size="53807" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Joe:
+See you later, Detective. I can smell a good case is coming up. (Press ‘X’ to exit)
+</text>
+		</slide>
+	</slides>
+</presentation>
